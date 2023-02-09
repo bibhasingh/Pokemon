@@ -1,0 +1,9 @@
+.image {
+  height: 50px;
+  width: 100px;
+}
+
+.Container {
+  width: 800px;
+  margin: 20px auto;
+}
